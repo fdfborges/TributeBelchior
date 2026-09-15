@@ -1,4 +1,4 @@
-# Belchior --- Tributo
+# Belchior Tributo
 
 Site estático desenvolvido como projeto de estudo e parte do meu
 portfólio de evolução em desenvolvimento web.
@@ -6,6 +6,8 @@ portfólio de evolução em desenvolvimento web.
 A proposta foi criar uma página de tributo ao cantor e compositor
 Belchior, explorando composição visual, tipografia, organização de
 conteúdo e responsividade para diferentes tamanhos de tela.
+
+**[CLIQUE AQUI E VEJA EM TEMPO REAL](https://fdfborges.github.io/TributeBelchior/)**
 
 ## 🎯 Objetivo
 
