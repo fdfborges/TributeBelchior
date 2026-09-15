@@ -1,0 +1,17 @@
+:root{
+    /*colors*/
+    --black: #080808;
+    --blackHOVER: #3b3b3b;
+    --LightBlack: #141414;
+    --Gray: #A8A8A8;
+    --white: #FFFFFF;
+    --StrongYellow: #BFA181;
+    --LightYellow: #F1E8D5;
+
+
+
+    /*fonts*/
+    --textSpaceGrotesk: "Space Grotesk", sans-serif;
+    --titleCormorantGaramond: "Cormorant Garamond", serif;
+
+}
